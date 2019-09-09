@@ -1,2 +1,0 @@
-# UniqueArray
-Created with CodeSandbox
